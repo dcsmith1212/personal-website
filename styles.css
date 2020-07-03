@@ -38,7 +38,7 @@ body {
 }
 
 .dark-blue {
-    background-color: #00022c;
+    background-color: #000131;
     width: 100%;
     flex-grow: 1;
 }
@@ -130,7 +130,7 @@ body {
 
 .project {
     color: #d0def7;
-    background-color: #00022c;
+    background-color: #000131;
     height: 60px;
     width: 280px;
     margin-bottom: 40px;
@@ -151,7 +151,7 @@ body {
 .buffer-bar {
     width: 100%;
     height: 50px;
-    background-color: #00022c;
+    background-color: #000131;
 }
 
 .links-container {
@@ -191,7 +191,7 @@ a {
 .bottom-bar {
     width: 100%;
     height: 80px;
-    background-color: #00022c;
+    background-color: #000131;
 }
 
 @media (max-width: 800px) {
