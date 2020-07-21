@@ -128,12 +128,15 @@ body {
     margin: 0;
 }
 
+.project-container {
+    margin-bottom: 40px;
+}
+
 .project {
     color: #d0def7;
     background-color: #000131;
     height: 60px;
     width: 280px;
-    margin-bottom: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -146,6 +149,10 @@ body {
 .project:hover {
     cursor: pointer;
     background-color: #2b467b;
+}
+
+.project h2 {
+    margin: 0;
 }
 
 .buffer-bar {
